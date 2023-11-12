@@ -34,12 +34,12 @@ namespace Bank_Excep.Entities
 
             if (amount > WithdrawLimit)
             {
-                throw new DomainException("Error: the reported withdrawal amount is higher than the limit ");
+                throw new DomainException("the reported withdrawal amount is higher than the limit ");
 
             }
             if(amount > Balance)
             {
-                throw new DomainException("Error: you don't have a balance");
+                throw new DomainException("you don't have a balance");
             }
 
             Balance -= amount;

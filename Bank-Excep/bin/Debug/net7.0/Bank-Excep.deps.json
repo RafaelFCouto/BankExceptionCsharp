@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Bank-Excep/1.0.0": {
+        "runtime": {
+          "Bank-Excep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bank-Excep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\bin\Debug\net7.0\Bank-Excep.exe
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\bin\Debug\net7.0\Bank-Excep.deps.json
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\bin\Debug\net7.0\Bank-Excep.runtimeconfig.json
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\bin\Debug\net7.0\Bank-Excep.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\bin\Debug\net7.0\Bank-Excep.pdb
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\Bank-Excep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\Bank-Excep.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\Bank-Excep.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\Bank-Excep.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\Bank-Excep.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\refint\Bank-Excep.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\Bank-Excep.pdb
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\Bank-Excep.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\POO\Bank-Excep\Bank-Excep\obj\Debug\net7.0\ref\Bank-Excep.dll
